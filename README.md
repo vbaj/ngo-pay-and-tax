@@ -12,4 +12,4 @@ Since the rules of tax are same for all salaried persons, the database can be ut
 The zip file contains all the documentation and templates with the database ready for download.
 
 ## Requirements
-Access 2010 and above.
+Access 2010 or later.
