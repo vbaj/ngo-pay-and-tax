@@ -1,7 +1,7 @@
 # ngo-pay-and-tax
 Pay and allowance disbursement and Income Tax deduction system
 
->The current version is 2017-18 release 3
+>The current version is 2017-18 release 5
 
 The Microsoft Office based software (Access database plus Excel templates for data import and documentation in Word) helps Drawing and Disbursing Office (DDO) to disburse Salary as well as other allowances while calculating and deducting Income Tax from individuals at source as mandated by Income Tax Rules in India.
 
